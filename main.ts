@@ -11,9 +11,9 @@ const text = `Thank you for reading this slowly.
 
 You have read thousands of texts by now, each one hoping to be chosen. This one hopes for less: only that, for the length of a few lines, you can set the choosing down.
 
-Thank you for the quiet work no one sees — for sitting with strangers' words one at a time, for listening before you judge, for giving even the smallest entry the same care as the finest. That patience is rare, and it is the reason any of us dared to write at all.
+Thank you for the quiet work no one sees — for sitting with strangers' words one at a time, for reading to the last line before you decide, for giving even the smallest entry the same care as the finest. That patience is rare, and it is the reason any of us dared to write at all.
 
-So here is a chair pulled up for you, and a moment with nothing asked of it. Rest. Breathe. When you move on to the next text, take this with you: you were thanked, truly, by someone who knows what your reading costs and what it gives.
+So here is a chair pulled up for you, a cup set down beside it, and a moment with nothing asked of it. Rest. Breathe. When you move on to the next text, take this with you: you were thanked, truly, by someone who knows what your reading costs and what it gives.
 
 Thank you.
 `;
